@@ -691,18 +691,4 @@ small {
   #intro.section {
     background-position-x: 30%;
   }
-  /* Thêm vào file CSS */
-.profile-pic {
-  max-width: 150px;
-  border: 3px solid #004d40;
-}
-
-.buttons a {
-  margin: 0 10px;
-  padding: 10px 20px;
-}
-
-.contact-text {
-  color: #333; /* Màu chữ dễ đọc hơn */
-}
 }
